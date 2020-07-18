@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.TwoSumLessThanK", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.TwoSumInputArrayIsSorted", "Leetcode.TwoSumInputArrayIsSorted\Leetcode.TwoSumInputArrayIsSorted.csproj", "{01B67E7A-FE37-4A53-BC64-8E602CF3EA8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RemoveDuplicatesFromSortedArray", "Leetcode.RemoveDuplicatesFromSortedArray\Leetcode.RemoveDuplicatesFromSortedArray.csproj", "{F230B793-46A6-48A5-AE52-04358CB678B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,5 +31,9 @@ Global
 		{01B67E7A-FE37-4A53-BC64-8E602CF3EA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B67E7A-FE37-4A53-BC64-8E602CF3EA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B67E7A-FE37-4A53-BC64-8E602CF3EA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F230B793-46A6-48A5-AE52-04358CB678B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F230B793-46A6-48A5-AE52-04358CB678B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F230B793-46A6-48A5-AE52-04358CB678B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F230B793-46A6-48A5-AE52-04358CB678B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
