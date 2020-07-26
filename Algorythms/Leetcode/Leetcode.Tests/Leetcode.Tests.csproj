@@ -13,6 +13,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj" />
       <ProjectReference Include="..\Leetcode.RemoveDuplicatesFromSortedArray\Leetcode.RemoveDuplicatesFromSortedArray.csproj" />
       <ProjectReference Include="..\Leetcode.RemoveElement\Leetcode.RemoveElement.csproj" />
       <ProjectReference Include="..\Leetcode.SearchInsertPosition\Leetcode.SearchInsertPosition.csproj" />
