@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.SearchInsertPositi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MaximumSubarray", "Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj", "{D8E41407-5DB5-45F4-AAC3-80D232DA010C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.PlusOne", "Leetcode.PlusOne\Leetcode.PlusOne.csproj", "{5E5AA10D-2E69-4541-8080-759D47ED0085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,9 @@ Global
 		{D8E41407-5DB5-45F4-AAC3-80D232DA010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8E41407-5DB5-45F4-AAC3-80D232DA010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8E41407-5DB5-45F4-AAC3-80D232DA010C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
