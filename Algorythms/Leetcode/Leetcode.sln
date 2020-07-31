@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MaximumSubarray", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.PlusOne", "Leetcode.PlusOne\Leetcode.PlusOne.csproj", "{5E5AA10D-2E69-4541-8080-759D47ED0085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.MergeSortedArray", "Leetсode.MergeSortedArray\Leetсode.MergeSortedArray.csproj", "{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,5 +61,9 @@ Global
 		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E5AA10D-2E69-4541-8080-759D47ED0085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

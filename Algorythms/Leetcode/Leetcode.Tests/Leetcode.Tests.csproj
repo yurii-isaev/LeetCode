@@ -21,6 +21,7 @@
       <ProjectReference Include="..\Leetcode.TwoSumInputArrayIsSorted\Leetcode.TwoSumInputArrayIsSorted.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSumLessThanK\Leetcode.TwoSumLessThanK.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSum\Leetcode.TwoSum.csproj" />
+      <ProjectReference Include="..\Leetсode.MergeSortedArray\Leetсode.MergeSortedArray.csproj" />
     </ItemGroup>
 
 </Project>
