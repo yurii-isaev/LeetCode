@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.PlusOne", "Leetcod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.MergeSortedArray", "Leetсode.MergeSortedArray\Leetсode.MergeSortedArray.csproj", "{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.PascalTriangle", "Leetсode.PascalTriangle\Leetсode.PascalTriangle.csproj", "{0931A9D5-7C86-4B1C-99B9-26597E2E7500}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,5 +67,9 @@ Global
 		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E83FE11E-C9B7-48F8-BD2A-E89C441766F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

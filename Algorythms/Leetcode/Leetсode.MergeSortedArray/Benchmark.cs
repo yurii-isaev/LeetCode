@@ -17,27 +17,27 @@ namespace Leetсode.MergeSortedArray
         };
 
         [Benchmark]
-        public void Test_MergeByWhile1() => Solution.MergeByWhile(_arr10, 5, _arr10, 5);
+        public void Test_MergeByWhile_1() => Solution.MergeByWhile(_arr10, 5, _arr10, 5);
 
         [Benchmark]
-        public void Test_MergeByWhile2() => Solution.MergeByWhile(_arr20, 10, _arr20, 10);
+        public void Test_MergeByWhile_2() => Solution.MergeByWhile(_arr20, 10, _arr20, 10);
 
         [Benchmark]
-        public void Test_MergeByFor1() => Solution.MergeByFor(_arr10, 5, _arr10, 5);
+        public void Test_MergeByFor_1() => Solution.MergeByFor(_arr10, 5, _arr10, 5);
 
         [Benchmark]
-        public void Test_MergeByFor2() => Solution.MergeByFor(_arr20, 10, _arr20, 10);
+        public void Test_MergeByFor_2() => Solution.MergeByFor(_arr20, 10, _arr20, 10);
 
         [Benchmark]
-        public void Test_MergeByArray1() => Solution.MergeByArray(_arr10, 5, _arr10, 5);
+        public void Test_MergeByArray_1() => Solution.MergeByArray(_arr10, 5, _arr10, 5);
 
         [Benchmark]
-        public void Test_MergeByArray2() => Solution.MergeByArray(_arr20, 10, _arr20, 10);
+        public void Test_MergeByArray_2() => Solution.MergeByArray(_arr20, 10, _arr20, 10);
 
         [Benchmark]
-        public void Test_MergeByLinq1() => Solution.MergeByLinq(_arr10, 5, _arr10, 5);
+        public void Test_MergeByLinq_1() => Solution.MergeByLinq(_arr10, 5, _arr10, 5);
 
         [Benchmark]
-        public void Test_MergeByLinq2() => Solution.MergeByLinq(_arr20, 10, _arr20, 10);
+        public void Test_MergeByLinq_2() => Solution.MergeByLinq(_arr20, 10, _arr20, 10);
     }
 }
