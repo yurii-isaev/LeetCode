@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.MergeSortedArray"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.PascalTriangle", "Leetсode.PascalTriangle\Leetсode.PascalTriangle.csproj", "{0931A9D5-7C86-4B1C-99B9-26597E2E7500}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.PascalTriangle2", "Leetсode.PascalTriangle2\Leetсode.PascalTriangle2.csproj", "{A46CBBAE-48A5-4777-8223-1D920840C34E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,5 +73,9 @@ Global
 		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0931A9D5-7C86-4B1C-99B9-26597E2E7500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46CBBAE-48A5-4777-8223-1D920840C34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46CBBAE-48A5-4777-8223-1D920840C34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46CBBAE-48A5-4777-8223-1D920840C34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46CBBAE-48A5-4777-8223-1D920840C34E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
