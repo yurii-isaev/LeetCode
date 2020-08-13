@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetсode.BestTimeToBuyAndS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.SingleNumber", "Leetcode.SingleNumber\Leetcode.SingleNumber.csproj", "{2CDAB113-9C54-4ED9-9DD7-47664425F3CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MissingRanges", "Leetcode.MissingRanges\Leetcode.MissingRanges.csproj", "{CEEF60A2-05CC-461B-AFE4-8F9245B93884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,5 +91,9 @@ Global
 		{2CDAB113-9C54-4ED9-9DD7-47664425F3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CDAB113-9C54-4ED9-9DD7-47664425F3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CDAB113-9C54-4ED9-9DD7-47664425F3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEF60A2-05CC-461B-AFE4-8F9245B93884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEF60A2-05CC-461B-AFE4-8F9245B93884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEF60A2-05CC-461B-AFE4-8F9245B93884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEF60A2-05CC-461B-AFE4-8F9245B93884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
