@@ -13,6 +13,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Leetcode.MajorityElement\Leetcode.MajorityElement.csproj" />
       <ProjectReference Include="..\Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj" />
       <ProjectReference Include="..\Leetcode.MissingRanges\Leetcode.MissingRanges.csproj" />
       <ProjectReference Include="..\Leetcode.PlusOne\Leetcode.PlusOne.csproj" />
