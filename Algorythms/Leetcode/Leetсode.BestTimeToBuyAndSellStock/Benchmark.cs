@@ -26,6 +26,6 @@ namespace Leetсode.BestTimeToBuyAndSellStock
         public void Test_MaxProfitByDp1() => Solution.MaxProfitByDp(_arr10);
 
         [Benchmark]
-        public void Test_MaxProfitByDP2() => Solution.MaxProfitByDp(_arr20);
+        public void Test_MaxProfitByDp2() => Solution.MaxProfitByDp(_arr20);
     }
 }
