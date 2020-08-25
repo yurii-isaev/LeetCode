@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.TwoSumDataStructur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ContainsDuplicate", "Leetcode.ContainsDuplicate\Leetcode.ContainsDuplicate.csproj", "{C3C53FB4-1401-4DAB-9956-B9918B89BD74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ContainsDuplicate2", "Leetcode.ContainsDuplicate2\Leetcode.ContainsDuplicate2.csproj", "{3DD64210-8761-4B6C-9FAD-26DFFAF94E44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,5 +115,9 @@ Global
 		{C3C53FB4-1401-4DAB-9956-B9918B89BD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C53FB4-1401-4DAB-9956-B9918B89BD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C53FB4-1401-4DAB-9956-B9918B89BD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD64210-8761-4B6C-9FAD-26DFFAF94E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD64210-8761-4B6C-9FAD-26DFFAF94E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD64210-8761-4B6C-9FAD-26DFFAF94E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD64210-8761-4B6C-9FAD-26DFFAF94E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
