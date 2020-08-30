@@ -22,6 +22,7 @@
       <ProjectReference Include="..\Leetcode.RemoveDuplicatesFromSortedArray\Leetcode.RemoveDuplicatesFromSortedArray.csproj" />
       <ProjectReference Include="..\Leetcode.RemoveElement\Leetcode.RemoveElement.csproj" />
       <ProjectReference Include="..\Leetcode.SearchInsertPosition\Leetcode.SearchInsertPosition.csproj" />
+      <ProjectReference Include="..\Leetcode.ShortestWordDistance\Leetcode.ShortestWordDistance.csproj" />
       <ProjectReference Include="..\Leetcode.SingleNumber\Leetcode.SingleNumber.csproj" />
       <ProjectReference Include="..\Leetcode.SummaryRanges\Leetcode.SummaryRanges.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSumDataStructureDesign\Leetcode.TwoSumDataStructureDesign.csproj" />
