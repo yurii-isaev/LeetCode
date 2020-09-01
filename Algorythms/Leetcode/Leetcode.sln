@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.SummaryRanges", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ShortestWordDistance", "Leetcode.ShortestWordDistance\Leetcode.ShortestWordDistance.csproj", "{539EFE4A-2FC3-4475-9CB3-89C5DE39405A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MeetingRooms", "Leetcode.MeetingRooms\Leetcode.MeetingRooms.csproj", "{0E7F6B6B-1574-41BE-9AB2-D7E223B517A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,5 +133,9 @@ Global
 		{539EFE4A-2FC3-4475-9CB3-89C5DE39405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539EFE4A-2FC3-4475-9CB3-89C5DE39405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539EFE4A-2FC3-4475-9CB3-89C5DE39405A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7F6B6B-1574-41BE-9AB2-D7E223B517A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7F6B6B-1574-41BE-9AB2-D7E223B517A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7F6B6B-1574-41BE-9AB2-D7E223B517A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7F6B6B-1574-41BE-9AB2-D7E223B517A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
