@@ -18,6 +18,7 @@
       <ProjectReference Include="..\Leetcode.MajorityElement\Leetcode.MajorityElement.csproj" />
       <ProjectReference Include="..\Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj" />
       <ProjectReference Include="..\Leetcode.MeetingRooms\Leetcode.MeetingRooms.csproj" />
+      <ProjectReference Include="..\Leetcode.MissingNumber\Leetcode.MissingNumber.csproj" />
       <ProjectReference Include="..\Leetcode.MissingRanges\Leetcode.MissingRanges.csproj" />
       <ProjectReference Include="..\Leetcode.PlusOne\Leetcode.PlusOne.csproj" />
       <ProjectReference Include="..\Leetcode.RemoveDuplicatesFromSortedArray\Leetcode.RemoveDuplicatesFromSortedArray.csproj" />
