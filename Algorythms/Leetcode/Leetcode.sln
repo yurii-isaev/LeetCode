@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MoveZeroes", "Leet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RangeSumQueryImmutable", "Leetcode.RangeSumQueryImmutable\Leetcode.RangeSumQueryImmutable.csproj", "{CCDEBB38-E287-4E53-AEA0-A7A5E81FC3CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RangeSumQuery2DImmutable", "Leetcode.RangeSumQuery2DImmutable\Leetcode.RangeSumQuery2DImmutable.csproj", "{ED3610FA-9574-4F1A-8673-344791CC9474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,5 +157,9 @@ Global
 		{CCDEBB38-E287-4E53-AEA0-A7A5E81FC3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDEBB38-E287-4E53-AEA0-A7A5E81FC3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDEBB38-E287-4E53-AEA0-A7A5E81FC3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3610FA-9574-4F1A-8673-344791CC9474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3610FA-9574-4F1A-8673-344791CC9474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3610FA-9574-4F1A-8673-344791CC9474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3610FA-9574-4F1A-8673-344791CC9474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
