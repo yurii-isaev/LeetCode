@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RangeSumQueryImmut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RangeSumQuery2DImmutable", "Leetcode.RangeSumQuery2DImmutable\Leetcode.RangeSumQuery2DImmutable.csproj", "{ED3610FA-9574-4F1A-8673-344791CC9474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.IntersectionOfTwoArrays", "Leetcode.IntersectionOfTwoArrays\Leetcode.IntersectionOfTwoArrays.csproj", "{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,5 +163,9 @@ Global
 		{ED3610FA-9574-4F1A-8673-344791CC9474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED3610FA-9574-4F1A-8673-344791CC9474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED3610FA-9574-4F1A-8673-344791CC9474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
