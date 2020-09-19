@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RangeSumQuery2DImm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.IntersectionOfTwoArrays", "Leetcode.IntersectionOfTwoArrays\Leetcode.IntersectionOfTwoArrays.csproj", "{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.IntersectionOfTwoArrays2", "Leetcode.IntersectionOfTwoArrays2\Leetcode.IntersectionOfTwoArrays2.csproj", "{0CD77BCD-49F1-46C8-AD51-F968D0DAE388}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,5 +169,9 @@ Global
 		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E6E4005-2E35-4EDF-A1B6-8808AA48DD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD77BCD-49F1-46C8-AD51-F968D0DAE388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD77BCD-49F1-46C8-AD51-F968D0DAE388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD77BCD-49F1-46C8-AD51-F968D0DAE388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD77BCD-49F1-46C8-AD51-F968D0DAE388}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
