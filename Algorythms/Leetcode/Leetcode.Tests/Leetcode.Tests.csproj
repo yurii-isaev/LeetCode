@@ -32,6 +32,7 @@
       <ProjectReference Include="..\Leetcode.ShortestWordDistance\Leetcode.ShortestWordDistance.csproj" />
       <ProjectReference Include="..\Leetcode.SingleNumber\Leetcode.SingleNumber.csproj" />
       <ProjectReference Include="..\Leetcode.SummaryRanges\Leetcode.SummaryRanges.csproj" />
+      <ProjectReference Include="..\Leetcode.ThirdMaximumNumber\Leetcode.ThirdMaximumNumber.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSumDataStructureDesign\Leetcode.TwoSumDataStructureDesign.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSumInputArrayIsSorted\Leetcode.TwoSumInputArrayIsSorted.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSumLessThanK\Leetcode.TwoSumLessThanK.csproj" />
