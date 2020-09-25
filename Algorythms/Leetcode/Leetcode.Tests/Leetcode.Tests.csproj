@@ -37,6 +37,7 @@
       <ProjectReference Include="..\Leetcode.TwoSumInputArrayIsSorted\Leetcode.TwoSumInputArrayIsSorted.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSumLessThanK\Leetcode.TwoSumLessThanK.csproj" />
       <ProjectReference Include="..\Leetcode.TwoSum\Leetcode.TwoSum.csproj" />
+      <ProjectReference Include="..\Leetcode.ValidWordSquare\Leetcode.ValidWordSquare.csproj" />
       <ProjectReference Include="..\Leetсode.BestTimeToBuyAndSellStock\Leetсode.BestTimeToBuyAndSellStock.csproj" />
       <ProjectReference Include="..\Leetсode.MergeSortedArray\Leetсode.MergeSortedArray.csproj" />
       <ProjectReference Include="..\Leetсode.PascalTriangle2\Leetсode.PascalTriangle2.csproj" />
