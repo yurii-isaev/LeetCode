@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ThirdMaximumNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ValidWordSquare", "Leetcode.ValidWordSquare\Leetcode.ValidWordSquare.csproj", "{F13B6603-939C-4685-8186-6FB822547179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.FindNumbersDisappearedArray", "Leetcode.FindNumbersDisappearedArray\Leetcode.FindNumbersDisappearedArray.csproj", "{D7709E6B-9FA6-4635-BDA0-4970443F8063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,5 +187,9 @@ Global
 		{F13B6603-939C-4685-8186-6FB822547179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13B6603-939C-4685-8186-6FB822547179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13B6603-939C-4685-8186-6FB822547179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7709E6B-9FA6-4635-BDA0-4970443F8063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7709E6B-9FA6-4635-BDA0-4970443F8063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7709E6B-9FA6-4635-BDA0-4970443F8063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7709E6B-9FA6-4635-BDA0-4970443F8063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

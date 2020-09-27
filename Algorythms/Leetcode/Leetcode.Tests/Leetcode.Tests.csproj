@@ -15,6 +15,7 @@
     <ItemGroup>
       <ProjectReference Include="..\Leetcode.ContainsDuplicate2\Leetcode.ContainsDuplicate2.csproj" />
       <ProjectReference Include="..\Leetcode.ContainsDuplicate\Leetcode.ContainsDuplicate.csproj" />
+      <ProjectReference Include="..\Leetcode.FindNumbersDisappearedArray\Leetcode.FindNumbersDisappearedArray.csproj" />
       <ProjectReference Include="..\Leetcode.IntersectionOfTwoArrays2\Leetcode.IntersectionOfTwoArrays2.csproj" />
       <ProjectReference Include="..\Leetcode.IntersectionOfTwoArrays\Leetcode.IntersectionOfTwoArrays.csproj" />
       <ProjectReference Include="..\Leetcode.MajorityElement\Leetcode.MajorityElement.csproj" />
