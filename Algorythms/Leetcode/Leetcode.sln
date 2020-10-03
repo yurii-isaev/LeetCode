@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.AssignCookies", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.IslandPerimeter", "Leetcode.IslandPerimeter\Leetcode.IslandPerimeter.csproj", "{38F4E422-E752-4BDC-9E37-82BA8869662D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MaxConsecutiveOnes", "Leetcode.MaxConsecutiveOnes\Leetcode.MaxConsecutiveOnes.csproj", "{D9C94758-E38E-43AB-927C-D0D2F5C867E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -203,5 +205,9 @@ Global
 		{38F4E422-E752-4BDC-9E37-82BA8869662D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38F4E422-E752-4BDC-9E37-82BA8869662D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38F4E422-E752-4BDC-9E37-82BA8869662D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C94758-E38E-43AB-927C-D0D2F5C867E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C94758-E38E-43AB-927C-D0D2F5C867E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C94758-E38E-43AB-927C-D0D2F5C867E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C94758-E38E-43AB-927C-D0D2F5C867E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

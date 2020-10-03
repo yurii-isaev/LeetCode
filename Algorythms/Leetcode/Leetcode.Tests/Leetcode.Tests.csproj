@@ -21,6 +21,7 @@
       <ProjectReference Include="..\Leetcode.IntersectionOfTwoArrays\Leetcode.IntersectionOfTwoArrays.csproj" />
       <ProjectReference Include="..\Leetcode.IslandPerimeter\Leetcode.IslandPerimeter.csproj" />
       <ProjectReference Include="..\Leetcode.MajorityElement\Leetcode.MajorityElement.csproj" />
+      <ProjectReference Include="..\Leetcode.MaxConsecutiveOnes\Leetcode.MaxConsecutiveOnes.csproj" />
       <ProjectReference Include="..\Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj" />
       <ProjectReference Include="..\Leetcode.MeetingRooms\Leetcode.MeetingRooms.csproj" />
       <ProjectReference Include="..\Leetcode.MissingNumber\Leetcode.MissingNumber.csproj" />
