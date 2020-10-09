@@ -27,6 +27,7 @@
       <ProjectReference Include="..\Leetcode.MissingNumber\Leetcode.MissingNumber.csproj" />
       <ProjectReference Include="..\Leetcode.MissingRanges\Leetcode.MissingRanges.csproj" />
       <ProjectReference Include="..\Leetcode.MoveZeroes\Leetcode.MoveZeroes.csproj" />
+      <ProjectReference Include="..\Leetcode.NextGreaterElement\Leetcode.NextGreaterElement.csproj" />
       <ProjectReference Include="..\Leetcode.PlusOne\Leetcode.PlusOne.csproj" />
       <ProjectReference Include="..\Leetcode.RangeSumQuery2DImmutable\Leetcode.RangeSumQuery2DImmutable.csproj" />
       <ProjectReference Include="..\Leetcode.RangeSumQueryImmutable\Leetcode.RangeSumQueryImmutable.csproj" />

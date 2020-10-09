@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MaxConsecutiveOnes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.TeemoAttacking", "Leetcode.TeemoAttacking\Leetcode.TeemoAttacking.csproj", "{C79649F8-C9E5-47D0-BA56-C08210767F0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.NextGreaterElement", "Leetcode.NextGreaterElement\Leetcode.NextGreaterElement.csproj", "{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -215,5 +217,9 @@ Global
 		{C79649F8-C9E5-47D0-BA56-C08210767F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79649F8-C9E5-47D0-BA56-C08210767F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79649F8-C9E5-47D0-BA56-C08210767F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
