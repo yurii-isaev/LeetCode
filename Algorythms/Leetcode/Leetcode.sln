@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.TeemoAttacking", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.NextGreaterElement", "Leetcode.NextGreaterElement\Leetcode.NextGreaterElement.csproj", "{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.KeyboardRow", "Leetcode.KeyboardRow\Leetcode.KeyboardRow.csproj", "{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,5 +223,9 @@ Global
 		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E4E3FFE-2701-42A2-ACFB-3AC79EF81347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
