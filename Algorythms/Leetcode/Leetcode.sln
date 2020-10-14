@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.NextGreaterElement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.KeyboardRow", "Leetcode.KeyboardRow\Leetcode.KeyboardRow.csproj", "{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RelativeRanks", "Leetcode.RelativeRanks\Leetcode.RelativeRanks.csproj", "{72D6D510-CA0E-467E-916A-F966B5B8362F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,5 +229,9 @@ Global
 		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5702AB4A-5501-4C49-B8BE-0B824B7EB21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D6D510-CA0E-467E-916A-F966B5B8362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D6D510-CA0E-467E-916A-F966B5B8362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D6D510-CA0E-467E-916A-F966B5B8362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D6D510-CA0E-467E-916A-F966B5B8362F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
