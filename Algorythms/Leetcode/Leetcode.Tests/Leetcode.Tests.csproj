@@ -14,6 +14,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Leetcode.ContainsDuplicate2\Leetcode.ContainsDuplicate2.csproj" />
+      <ProjectReference Include="..\Leetcode.ArrayPartition\Leetcode.ArrayPartition.csproj" />
       <ProjectReference Include="..\Leetcode.AssignCookies\Leetcode.AssignCookies.csproj" />
       <ProjectReference Include="..\Leetcode.ContainsDuplicate\Leetcode.ContainsDuplicate.csproj" />
       <ProjectReference Include="..\Leetcode.FindNumbersDisappearedArray\Leetcode.FindNumbersDisappearedArray.csproj" />
