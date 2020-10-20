@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RelativeRanks", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ArrayPartition", "Leetcode.ArrayPartition\Leetcode.ArrayPartition.csproj", "{9EDFBD68-B208-45E4-9C20-7915460DCA85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ReshapeMatrix", "Leetcode.ReshapeMatrix\Leetcode.ReshapeMatrix.csproj", "{483942BA-B960-46B9-A547-45A42499B8C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,5 +241,9 @@ Global
 		{9EDFBD68-B208-45E4-9C20-7915460DCA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EDFBD68-B208-45E4-9C20-7915460DCA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EDFBD68-B208-45E4-9C20-7915460DCA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483942BA-B960-46B9-A547-45A42499B8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483942BA-B960-46B9-A547-45A42499B8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483942BA-B960-46B9-A547-45A42499B8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483942BA-B960-46B9-A547-45A42499B8C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
