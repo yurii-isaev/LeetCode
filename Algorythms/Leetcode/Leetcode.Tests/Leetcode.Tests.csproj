@@ -17,6 +17,7 @@
       <ProjectReference Include="..\Leetcode.ArrayPartition\Leetcode.ArrayPartition.csproj" />
       <ProjectReference Include="..\Leetcode.AssignCookies\Leetcode.AssignCookies.csproj" />
       <ProjectReference Include="..\Leetcode.ContainsDuplicate\Leetcode.ContainsDuplicate.csproj" />
+      <ProjectReference Include="..\Leetcode.DistributeCandies\Leetcode.DistributeCandies.csproj" />
       <ProjectReference Include="..\Leetcode.FindNumbersDisappearedArray\Leetcode.FindNumbersDisappearedArray.csproj" />
       <ProjectReference Include="..\Leetcode.IntersectionOfTwoArrays2\Leetcode.IntersectionOfTwoArrays2.csproj" />
       <ProjectReference Include="..\Leetcode.IntersectionOfTwoArrays\Leetcode.IntersectionOfTwoArrays.csproj" />

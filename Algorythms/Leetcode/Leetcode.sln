@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ArrayPartition", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ReshapeMatrix", "Leetcode.ReshapeMatrix\Leetcode.ReshapeMatrix.csproj", "{483942BA-B960-46B9-A547-45A42499B8C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.DistributeCandies", "Leetcode.DistributeCandies\Leetcode.DistributeCandies.csproj", "{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,5 +247,9 @@ Global
 		{483942BA-B960-46B9-A547-45A42499B8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{483942BA-B960-46B9-A547-45A42499B8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{483942BA-B960-46B9-A547-45A42499B8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
