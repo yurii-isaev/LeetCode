@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.ReshapeMatrix", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.DistributeCandies", "Leetcode.DistributeCandies\Leetcode.DistributeCandies.csproj", "{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.LongestHarmoniousSubsequence", "Leetcode.LongestHarmoniousSubsequence\Leetcode.LongestHarmoniousSubsequence.csproj", "{51403343-FEED-4097-BDF0-2CD2A53E6F1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,5 +253,9 @@ Global
 		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6ACAAF6-08DF-49C5-B0A3-59FC58C98A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51403343-FEED-4097-BDF0-2CD2A53E6F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51403343-FEED-4097-BDF0-2CD2A53E6F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51403343-FEED-4097-BDF0-2CD2A53E6F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51403343-FEED-4097-BDF0-2CD2A53E6F1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

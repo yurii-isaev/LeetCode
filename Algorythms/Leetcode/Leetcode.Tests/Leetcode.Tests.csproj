@@ -23,6 +23,7 @@
       <ProjectReference Include="..\Leetcode.IntersectionOfTwoArrays\Leetcode.IntersectionOfTwoArrays.csproj" />
       <ProjectReference Include="..\Leetcode.IslandPerimeter\Leetcode.IslandPerimeter.csproj" />
       <ProjectReference Include="..\Leetcode.KeyboardRow\Leetcode.KeyboardRow.csproj" />
+      <ProjectReference Include="..\Leetcode.LongestHarmoniousSubsequence\Leetcode.LongestHarmoniousSubsequence.csproj" />
       <ProjectReference Include="..\Leetcode.MajorityElement\Leetcode.MajorityElement.csproj" />
       <ProjectReference Include="..\Leetcode.MaxConsecutiveOnes\Leetcode.MaxConsecutiveOnes.csproj" />
       <ProjectReference Include="..\Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj" />
