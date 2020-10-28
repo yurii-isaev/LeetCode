@@ -33,6 +33,7 @@
       <ProjectReference Include="..\Leetcode.MoveZeroes\Leetcode.MoveZeroes.csproj" />
       <ProjectReference Include="..\Leetcode.NextGreaterElement\Leetcode.NextGreaterElement.csproj" />
       <ProjectReference Include="..\Leetcode.PlusOne\Leetcode.PlusOne.csproj" />
+      <ProjectReference Include="..\Leetcode.RangeAddition2\Leetcode.RangeAddition2.csproj" />
       <ProjectReference Include="..\Leetcode.RangeSumQuery2DImmutable\Leetcode.RangeSumQuery2DImmutable.csproj" />
       <ProjectReference Include="..\Leetcode.RangeSumQueryImmutable\Leetcode.RangeSumQueryImmutable.csproj" />
       <ProjectReference Include="..\Leetcode.RelativeRanks\Leetcode.RelativeRanks.csproj" />
