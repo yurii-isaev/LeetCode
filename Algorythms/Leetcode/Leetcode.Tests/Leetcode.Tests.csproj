@@ -28,6 +28,7 @@
       <ProjectReference Include="..\Leetcode.MaxConsecutiveOnes\Leetcode.MaxConsecutiveOnes.csproj" />
       <ProjectReference Include="..\Leetcode.MaximumSubarray\Leetcode.MaximumSubarray.csproj" />
       <ProjectReference Include="..\Leetcode.MeetingRooms\Leetcode.MeetingRooms.csproj" />
+      <ProjectReference Include="..\Leetcode.MinimumIndexSumOfTwoLists\Leetcode.MinimumIndexSumOfTwoLists.csproj" />
       <ProjectReference Include="..\Leetcode.MissingNumber\Leetcode.MissingNumber.csproj" />
       <ProjectReference Include="..\Leetcode.MissingRanges\Leetcode.MissingRanges.csproj" />
       <ProjectReference Include="..\Leetcode.MoveZeroes\Leetcode.MoveZeroes.csproj" />

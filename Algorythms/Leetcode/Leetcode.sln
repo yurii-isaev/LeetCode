@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.LongestHarmoniousS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.RangeAddition2", "Leetcode.RangeAddition2\Leetcode.RangeAddition2.csproj", "{BD09BCE1-6CF9-46CB-8CA1-22DEF3F34E44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.MinimumIndexSumOfTwoLists", "Leetcode.MinimumIndexSumOfTwoLists\Leetcode.MinimumIndexSumOfTwoLists.csproj", "{AFC5FE71-0E4C-4279-8F45-24D5E15202D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -263,5 +265,9 @@ Global
 		{BD09BCE1-6CF9-46CB-8CA1-22DEF3F34E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD09BCE1-6CF9-46CB-8CA1-22DEF3F34E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD09BCE1-6CF9-46CB-8CA1-22DEF3F34E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC5FE71-0E4C-4279-8F45-24D5E15202D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC5FE71-0E4C-4279-8F45-24D5E15202D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC5FE71-0E4C-4279-8F45-24D5E15202D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC5FE71-0E4C-4279-8F45-24D5E15202D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
